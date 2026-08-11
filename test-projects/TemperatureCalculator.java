@@ -7,7 +7,7 @@ public class TemperatureCalculator {
         double temp, result;
 
         System.out.println("Temperature Calculator");
-        System.out.println("1. Celsius to Fahrenheit");
+        System.out.println("1. Celsius to Fahrenheits");
         System.out.println("2. Celsius to Kelvin");
         System.out.println("3. Fahrenheit to Celsius");
         System.out.println("4. Fahrenheit to Kelvin");
