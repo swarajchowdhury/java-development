@@ -18,9 +18,7 @@ public class StudentResultSystem {
         int choice;
 
         do {
-            System.out.println("\n================================");
-            System.out.println("       STUDENT RESULT SYSTEM    ");
-            System.out.println("================================");
+            System.out.println("STUDENT RESULT SYSTEM");
             System.out.println("1. Enter Student Details");
             System.out.println("2. Calculate Result");
             System.out.println("3. Display Result");
